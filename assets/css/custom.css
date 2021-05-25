@@ -1,1 +1,23 @@
 /*! Place your custom styles here */
+.text--color-madrasah-dark, 
+h1.text--color-madrasah-dark {
+	color: #1F4C63;
+}
+
+.bg--primary .text--color-madrasah-yellow,
+.bg--dark.bg--dark-madrasah h2 .text--color-madrasah-yellow,
+.bg--dark.bg--dark-madrasah:not(.nav-bar):not(.bar) span:not(.btn__text) {
+	color: #F6C77E;
+}
+
+.btn--primary {
+	background: #4B9551;
+}
+
+.bg--primary.bg--primary-madrasah {
+	background: #4B9551;
+}
+
+.bg--dark.bg--dark-madrasah {
+	background: #1F4C63;
+}
