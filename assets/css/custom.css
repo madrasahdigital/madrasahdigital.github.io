@@ -14,6 +14,22 @@ h1.text--color-madrasah-dark {
 	background: #4B9551;
 }
 
+.btn--primary:hover,
+.btn--primary:focus {
+	background: #5FA865;
+	border-color: #5FA865;
+}
+
+.btn--primary-1 {
+	background: #1F4C63;
+}
+
+.btn--primary-1:hover,
+.btn--primary-1:focus {
+	background: #2E6581;
+	border-color: #2E6581;
+}
+
 .bg--primary.bg--primary-madrasah {
 	background: #4B9551;
 }
