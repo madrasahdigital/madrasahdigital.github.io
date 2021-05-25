@@ -1,4 +1,8 @@
 /*! Place your custom styles here */
+.logo.logo-madrasah {
+	max-height: 60px;
+}
+
 .text--color-madrasah-dark, 
 h1.text--color-madrasah-dark {
 	color: #1F4C63;
