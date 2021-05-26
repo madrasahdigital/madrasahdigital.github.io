@@ -41,3 +41,7 @@ h1.text--color-madrasah-dark {
 .bg--dark.bg--dark-madrasah {
 	background: #1F4C63;
 }
+
+.logo-partner {
+	max-height: 100px;
+}
