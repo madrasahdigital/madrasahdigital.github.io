@@ -14,7 +14,8 @@ h1.text--color-madrasah-dark {
 	color: #F6C77E;
 }
 
-.btn--primary {
+.btn--primary,
+.btn--primary:visited {
 	background: #4B9551;
 }
 
@@ -24,7 +25,8 @@ h1.text--color-madrasah-dark {
 	border-color: #5FA865;
 }
 
-.btn--primary-1 {
+.btn--primary-1,
+.btn--primary-1:visited {
 	background: #1F4C63;
 }
 
