@@ -56,6 +56,6 @@ h1.text--color-madrasah-dark {
 	background: #B9D67A;
 }
 
-.program-madrasah .program-icon .program-icon-assets {
-
+.program-madrasah .program-icon .program-icon-asset {
+	border-radius: 50%;
 }
