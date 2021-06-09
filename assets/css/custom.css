@@ -48,6 +48,10 @@ h1.text--color-madrasah-dark {
 	background: #4B9551;
 }
 
+.bg--secondary.bg--secondary-madrasah {
+	background: #F3EBDE;
+}
+
 .bg--dark.bg--dark-madrasah {
 	background: #1F4C63;
 }
