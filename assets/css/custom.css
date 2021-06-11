@@ -63,3 +63,19 @@ h1.text--color-madrasah-dark {
 .program-madrasah .program-icon .program-icon-asset {
 	border-radius: 50%;
 }
+
+.checkmark.check-madrasah-donasi {
+	background: #D3E4B2;
+	top: 6px;
+}
+
+.checkmark.check-madrasah-donasi:before {
+	color: #4C9552;
+}
+
+.progress-horizontal.progress-madrasah.progress-horizontal--sm .progress-horizontal__bar {
+	height: 7px;
+	background: #E5E5E5;
+	border: 0;
+}
+
